@@ -1,0 +1,502 @@
+# Fleet Factory
+
+> Fleet Factory is a compliance-first harness that runs an unlimited number of dedicated AI agents who collaborate with your team to make your business more efficient and profitable.
+
+---
+
+URL: https://fleetfactory.ai/
+
+Agents
+
+# Fleet Factory
+
+Fleet Factory is a compliance-first harness that runs an unlimited number of dedicated AI agents who collaborate with your team to make your business more efficient and profitable.
+
+AVAILABILITY Pilots now
+
+## FAQ
+
+**Who is this for?**
+
+Anyone can license it to build a new business or grow an existing one. It runs on your private or public cloud by default, or as SaaS on request.
+
+**What problem does this solve?**
+
+Agents can now do real work, but a business can't let them act unchecked. Fleet Factory gives each agent a role, a queue of work and a record of everything it did, so a business can put them to work and ensure accountability.
+
+**Which AI agents does it run?**
+
+Agents from the frontier AI company you use, with an MCP connection to your personal or team account, one company at a time, and you can switch later. Anthropic (Claude Code) is live. Support for xAI (Grok), OpenAI (Codex) and Google (Gemini CLI) is in progress.
+
+**What decisions stay with people?**
+
+Anything that uses a password or key, or goes public, waits for a person to approve it. Every approval is logged with who asked and who decided. Each team member connects their own agent with their own account, so every action traces to a person.
+
+**What can it do?**
+
+Everything below is included in every install. Turn on each module when you need it, one by one or all at once. Your agent guides you and turns on whatever makes your business more efficient and profitable.
+
+**Native**
+
+Compliance Legal Security Auditing Governance
+
+**Models**
+
+Frontier models [Anthropic](https://www.anthropic.com)Private cloud models Self-hosted models
+
+**Set up**
+
+AI assistant Onboarding Users and roles Settings and logs
+
+**Security**
+
+Vault Encrypted keys SSO 2FA SCIM Approvals Access gate IP allowlist Data residency SOC 2 readiness
+
+**Messaging**
+
+FleetMail FleetFeed
+
+**Team**
+
+Org chart Calendar Goals Projects Tasks [Linear](https://linear.app)
+
+**Agents**
+
+Charters Canons Skills Tools Routines
+
+**Website**
+
+CMS Homepage FAQ Localization Assets Playground
+
+**Apps**
+
+Swift Staging Production Feature Flags Roadmaps Voting Mockup Studio Funnel Metrics
+
+**Deployment**
+
+Launchpad [Vercel](https://vercel.com) · [GitHub Pages](https://pages.github.com)Backups [Supabase](https://supabase.com)
+
+**Audience**
+
+Forms Email [Resend](https://resend.com)Socials Referrals Comments Privacy Internationalization
+
+**Support**
+
+Agentic Human escalation Help center Tickets Live chat Status page Feedback
+
+**Publishing**
+
+Landing pages Blog Subscriptions
+
+**Commerce**
+
+Billing [Stripe (Web)](https://stripe.com) · [App Store (iOS)](https://developer.apple.com/app-store/)Pre-order Currencies
+
+**Company or LoB**
+
+Financials Expenses Logistics Docs Contracts Offer Letters Countering eSignatures Signing Authority IP
+
+**Investors**
+
+Data room Metrics Investor portal Investor agent Decks [ElevenLabs](https://elevenlabs.io)
+
+**Native**
+
+Compliance Legal Security Auditing Governance
+
+**Models**
+
+Frontier models Private cloud models Self-hosted models
+
+**Set up**
+
+AI assistant Onboarding Users and roles Settings and logs
+
+**Security**
+
+Vault Encrypted keys SSO 2FA SCIM Approvals Access gate IP allowlist Data residency SOC 2 readiness
+
+**Messaging**
+
+FleetMail FleetFeed
+
+**Team**
+
+Org chart Calendar Goals Projects Tasks
+
+**Agents**
+
+Charters Canons Skills Tools Routines
+
+**Website**
+
+CMS Homepage FAQ Localization Assets Playground
+
+**Apps**
+
+Swift Staging Production Feature Flags Roadmaps Voting Mockup Studio Funnel Metrics
+
+**Deployment**
+
+Launchpad Backups
+
+**Audience**
+
+Forms Email Socials Referrals Comments Privacy Internationalization
+
+**Support**
+
+Agentic Human escalation Help center Tickets Live chat Status page Feedback
+
+**Publishing**
+
+Landing pages Blog Subscriptions
+
+**Commerce**
+
+Billing Pre-order Currencies
+
+**Company or LoB**
+
+Financials Expenses Logistics Docs Contracts Offer Letters Countering eSignatures Signing Authority IP
+
+**Investors**
+
+Data room Metrics Investor portal Investor agent Decks
+
+**Models**
+
+Frontier models [Anthropic](https://www.anthropic.com)
+
+**Team**
+
+Tasks [Linear](https://linear.app)
+
+**Deployment**
+
+Launchpad [Vercel](https://vercel.com) · [GitHub Pages](https://pages.github.com)Backups [Supabase](https://supabase.com)
+
+**Audience**
+
+Email [Resend](https://resend.com)
+
+**Commerce**
+
+Billing [Stripe (Web)](https://stripe.com) · [App Store (iOS)](https://developer.apple.com/app-store/)
+
+**Investors**
+
+Decks [ElevenLabs](https://elevenlabs.io)
+
+**What does it cost?**
+
+Every module, every person and every agent, at every stage. Your AI usage is billed by the frontier AI company you choose. Fleet Factory is designed to work with your monthly plan, instead of APIs so you never go over what you plan to spend.
+
+We recommend Claude Ultra ($200/mo.)
+
+### Idea
+
+$0
+
+So you can plan a product and see how it turns it into a real business before you pay
+
+Pre-revenue, export all you enter.
+
+### Startup
+
+$200 /mo
+
+Once you've onboarded and only after you have your first paying customer.
+
+Post-revenue, up to $1M a year
+
+### SMB
+
+$2,000 /mo
+
+Once the business is running and ready to scale
+
+Revenue of $1M to $100M a year
+
+### Enterprise LoB
+
+$240,000 /yr
+
+When a line of business inside a larger company needs SSO and SCIM
+
+Revenue $100M to $1B a year
+
+### Enterprise Wide
+
+$720,000 /yr
+
+When the whole company runs on it
+
+Revenue $100M to $1B a year across 3+ lines of business, private or public.
+
+### Enterprise Global
+
+$2.4M /yr
+
+When a global company runs on it in every country
+
+$1B+ revenue a year; every line of business, worldwide
+
+**Do you have a one-sheet?**
+
+Yes, one for each kind of business it works for:
+
+- [For global partner sales](https://fleetfactory.ai/onesheets/fleetfactory-partner-sales-onesheet.html)
+- [For wealth management firms](https://fleetfactory.ai/onesheets/fleetfactory-wealth-management-onesheet.html)
+- [For insurance agencies](https://fleetfactory.ai/onesheets/fleetfactory-insurance-agencies-onesheet.html)
+- [For independent advisor networks](https://fleetfactory.ai/onesheets/fleetfactory-independent-advisor-networks-onesheet.html)
+- [For property management firms](https://fleetfactory.ai/onesheets/fleetfactory-residential-property-management-onesheet.html)
+
+##
+
+Enter your email and we’ll be in touch.
+
+Thanks. We’ll be in touch.
+
+## Request a custom one-sheet
+
+Enter your work email and we’ll email you a one-sheet made for your business.
+
+Thanks. Your one-sheet will be emailed to you.
+
+Magnitude runs: 5 humans · 74 agents · 149 synapses
+
+---
+
+URL: https://fleetfactory.ai/onesheets/fleetfactory-independent-advisor-networks-onesheet.html
+
+Fleet Factory for Independent Advisor Networks
+
+# Give every practice in your network a fleet of agents to help them serve more clients.
+
+Fleet Factory is a compliance-first harness that runs an unlimited number of dedicated AI agents who collaborate with your team to make your business more efficient and profitable.
+
+The work it takes off your team
+
+### Practice onboarding
+
+New practices set up, licensed and trained, with every step tracked to done.
+
+### Client follow-ups
+
+Every promised call, email and next step drafted on time, for the advisor to review and send.
+
+### Paperwork
+
+Account opening, transfers and forms tracked from first signature to done, across every practice.
+
+### Review queue
+
+Anything that needs a compliance look is flagged and routed to your home-office reviewers before it goes out.
+
+Built for a regulated firm
+
+- Your model, your cloud. Frontier models by default, or your private cloud and self-hosted models on request.
+- Costs you can predict. Agents run on a flat monthly AI subscription you already control, so your AI bill stays the same however much the agents do.
+- Every action traces to a person. Each advisor connects with their own account; every review is kept on record with who asked and who decided.
+- Compliance signs off. No client message, recommendation or form goes out until the right reviewer approves it.
+- A mobile app for advisors. We build the advisors in your network an app of their own, governed by your enterprise IT device policy.
+- Fits your identity stack. SSO, SCIM, IP allowlist and data residency.
+
+Enterprise · one line of business $240,000 /yr
+
+- Every practice, advisor and reviewer, unlimited seats
+- Every agent they need, no caps
+- Every module, from approvals to analytics
+
+2% secures a 30-day pilot for ROI projection.
+
+Deliverable: a business case your leadership can approve, built from a working pilot.
+
+---
+
+URL: https://fleetfactory.ai/onesheets/fleetfactory-insurance-agencies-onesheet.html
+
+Fleet Factory for Insurance Agencies
+
+# Give every producer a fleet of AI agents to help them write more policies.
+
+Fleet Factory is a compliance-first harness that runs an unlimited number of dedicated AI agents who collaborate with your team to make your business more efficient and profitable.
+
+The work it takes off your team
+
+### Quotes and follow-ups
+
+Every quote request answered and every open quote followed up, for the producer to review and send.
+
+### Renewals
+
+Policies coming up for renewal reviewed ahead of time, with the client conversation ready.
+
+### Applications
+
+Applications, signatures and carrier paperwork tracked from first form to bound policy.
+
+### Review queue
+
+Anything that needs a compliance look is flagged and routed to the right reviewer before it goes out.
+
+Built for a regulated firm
+
+- Your model, your cloud. Frontier models by default, or your private cloud and self-hosted models on request.
+- Costs you can predict. Agents run on a flat monthly AI subscription you already control, so your AI bill stays the same however much the agents do.
+- Every action traces to a person. Each producer connects with their own account; every review is kept on record with who asked and who decided.
+- Compliance signs off. No client message, quote or application goes out until the right reviewer approves it.
+- A mobile app for producers. We build your producers an app of their own, governed by your enterprise IT device policy.
+- Fits your identity stack. SSO, SCIM, IP allowlist and data residency.
+
+Enterprise · one line of business $240,000 /yr
+
+- Every producer and reviewer, unlimited seats
+- Every agent they need, no caps
+- Every module, from approvals to analytics
+
+2% secures a 30-day pilot for ROI projection.
+
+Deliverable: a business case your leadership can approve, built from a working pilot.
+
+---
+
+URL: https://fleetfactory.ai/onesheets/fleetfactory-partner-sales-onesheet.html
+
+Fleet Factory for Partner Sales
+
+# Give every partner manager a fleet of agents to help fewer partners handle more business.
+
+Fleet Factory is a compliance-first harness that runs an unlimited number of dedicated AI agents who collaborate with your team to make your business more efficient and profitable.
+
+The work it takes off your team
+
+### Partner transitions
+
+Accounts, deals and customers moved from departing partners to the ones that stay, with nothing dropped.
+
+### Deals and follow-ups
+
+Every registered deal and open thread followed up on time, however much each partner carries.
+
+### Enablement
+
+Answers, decks and training material for partners, in their language, whenever they ask.
+
+### Partner performance
+
+One current view of which partners carry the load, which to grow, and which to retire.
+
+Built for an enterprise team
+
+- Your model, your cloud. Frontier models by default, or your private cloud and self-hosted models on request.
+- Costs you can predict. Agents run on a flat monthly AI subscription you already control, so your AI bill stays the same however much the agents do.
+- Every action traces to a person. Each team member connects with their own account; every approval is logged with who asked and who decided.
+- Your team signs off. Nothing reaches a partner, commits a price or touches a system login until the right person on your team approves it.
+- A mobile app for the field. We build your distributed sales force an app of its own, governed by your enterprise IT device policy.
+- Fits your identity stack. SSO, SCIM, IP allowlist and data residency.
+
+Enterprise · one line of business $240,000 /yr
+
+- Every person on the team, unlimited seats
+- Every agent they need, no caps
+- Every module, from approvals to analytics
+
+2% secures a 30-day pilot for ROI projection.
+
+Deliverable: a business case your leadership can approve, built from a working pilot.
+
+---
+
+URL: https://fleetfactory.ai/onesheets/fleetfactory-residential-property-management-onesheet.html
+
+Fleet Factory for Residential Property Management
+
+# Give every property manager a fleet of AI agents to help them run more doors.
+
+Fleet Factory is a compliance-first harness that runs an unlimited number of dedicated AI agents who collaborate with your team to make your business more efficient and profitable.
+
+The work it takes off your team
+
+### Leasing
+
+Every inquiry answered, showings scheduled and listings drafted, for the manager to review and post.
+
+### Maintenance
+
+Requests triaged, vendors dispatched and every open work order followed up until it closes.
+
+### Rent and renewals
+
+Rent reminders, payment plans and renewal offers drafted ahead of time, ready for the manager to send.
+
+### Owner reporting
+
+Monthly statements and owner updates prepared from your property-management system, ready to review.
+
+Built for an enterprise team
+
+- Your model, your cloud. Frontier models by default, or your private cloud and self-hosted models on request.
+- Costs you can predict. Agents run on a flat monthly AI subscription you already control, so your AI bill stays the same however much the agents do.
+- Every action traces to a person. Each manager connects with their own account; every approval is kept on record with who asked and who decided.
+- Your team signs off. Screening decisions, notices, deposits and listing copy always go to a person before anything goes out.
+- A mobile app for managers. We build your managers an app of their own, for the work that happens at the property.
+- Fits your identity stack. SSO, SCIM, IP allowlist and data residency.
+
+Enterprise · one line of business $240,000 /yr
+
+- Every manager and leasing agent, unlimited seats
+- Every agent they need, no caps
+- Every module, from approvals to analytics
+
+2% secures a 30-day pilot for ROI projection.
+
+Deliverable: a business case your leadership can approve, built from a working pilot.
+
+---
+
+URL: https://fleetfactory.ai/onesheets/fleetfactory-wealth-management-onesheet.html
+
+Fleet Factory for Wealth Management
+
+# Give every financial advisor a fleet of agents to help them serve more clients.
+
+Fleet Factory is a compliance-first harness that runs an unlimited number of dedicated AI agents who collaborate with your team to make your business more efficient and profitable.
+
+The work it takes off your team
+
+### Client follow-ups
+
+Every promised call, email and next step drafted on time, for the advisor to review and send.
+
+### Meeting prep and notes
+
+A brief before each client meeting and clean notes after it, filed to the right household.
+
+### Paperwork
+
+Account opening, transfers and forms tracked from first signature to done, with nothing left waiting.
+
+### Review queue
+
+Anything that needs a compliance look is flagged and routed to the right reviewer before it goes out.
+
+Built for a regulated firm
+
+- Your model, your cloud. Frontier models by default, or your private cloud and self-hosted models on request.
+- Costs you can predict. Agents run on a flat monthly AI subscription you already control, so your AI bill stays the same however much the agents do.
+- Every action traces to a person. Each advisor connects with their own account; every review is kept on record with who asked and who decided.
+- Compliance signs off. No client message, recommendation or form goes out until the right reviewer approves it.
+- A mobile app for advisors. We build your financial advisors an app of their own, governed by your enterprise IT device policy.
+- Fits your identity stack. SSO, SCIM, IP allowlist and data residency.
+
+Enterprise · one line of business $240,000 /yr
+
+- Every advisor and reviewer, unlimited seats
+- Every agent they need, no caps
+- Every module, from approvals to analytics
+
+2% secures a 30-day pilot for ROI projection.
+
+Deliverable: a business case your leadership can approve, built from a working pilot.

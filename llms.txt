@@ -1,0 +1,24 @@
+# Fleet Factory
+
+> Fleet Factory is a compliance-first harness that runs an unlimited number of dedicated AI agents who collaborate with your team to make your business more efficient and profitable.
+
+Fleet Factory is made by Magnitude Inc. (https://www.magnitude.money/).
+
+## Pages
+
+- [Fleet Factory](https://fleetfactory.ai/): Fleet Factory is a compliance-first harness that runs an unlimited number of dedicated AI agents who collaborate with your team to make your business more efficient and profitable.
+
+## One-sheets
+
+- [Fleet Factory for Independent Advisor Networks](https://fleetfactory.ai/onesheets/fleetfactory-independent-advisor-networks-onesheet.html): A one-sheet linked from the FAQ.
+- [Fleet Factory for Insurance Agencies](https://fleetfactory.ai/onesheets/fleetfactory-insurance-agencies-onesheet.html): A one-sheet linked from the FAQ.
+- [Fleet Factory for Partner Sales](https://fleetfactory.ai/onesheets/fleetfactory-partner-sales-onesheet.html): A one-sheet linked from the FAQ.
+- [Fleet Factory for Residential Property Management](https://fleetfactory.ai/onesheets/fleetfactory-residential-property-management-onesheet.html): A one-sheet linked from the FAQ.
+- [Fleet Factory for Wealth Management](https://fleetfactory.ai/onesheets/fleetfactory-wealth-management-onesheet.html): A one-sheet linked from the FAQ.
+
+## Optional
+
+- [Full text](https://fleetfactory.ai/llms-full.txt): every page above as plain Markdown
+- [Intent Infrastructure](https://intentinfrastructure.com/llms.txt): a sibling site, also from Magnitude
+- [OpenOrigin](https://openorigin.sh/llms.txt): a sibling site, also from Magnitude
+- [BrainBridge](https://brainbridge.sh/llms.txt): a sibling site, also from Magnitude
