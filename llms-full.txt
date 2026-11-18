@@ -1,0 +1,583 @@
+# Fleet Factory
+
+> Fleet Factory is a compliance-first harness that runs an unlimited number of dedicated AI agents who collaborate with your team to make your business more efficient and profitable.
+
+---
+
+URL: https://fleetfactory.ai/
+
+Agents
+
+# Fleet Factory
+
+Fleet Factory is a compliance-first harness that runs an unlimited number of dedicated AI agents who collaborate with your team to make your business more efficient and profitable.
+
+AVAILABILITY Pilots now
+
+[Read our security page](https://fleetfactory.ai/security/)
+
+Made by Magnitude Inc.
+
+People decide
+
+## What decisions stay with people?
+
+### A person approves
+
+Anything that uses a password or key, or goes public, waits for a person to approve it.
+
+### Every approval is logged
+
+Every approval is logged with who asked and who decided.
+
+### Every action traces to a person
+
+Each team member connects their own agent with their own account, so every action traces to a person.
+
+How it works
+
+## What problem does this solve?
+
+Agents can now do real work, but a business can't let them act unchecked. Fleet Factory gives each agent a role, a queue of work and a record of everything it did, so a business can put them to work and ensure accountability.
+
+1
+
+### A role
+
+Each agent has a charter: what it owns and who it answers to. Your org chart shows people and agents together.
+
+2
+
+### A queue of work
+
+Work arrives as tasks on a shared board, where your team sees it too.
+
+3
+
+### A record of everything it did
+
+Changes land in the audit log, with who made them.
+
+Proof
+
+## Magnitude runs on it
+
+Magnitude, the company that makes Fleet Factory, runs its own business on it. Each dot is a person or an agent; each line is a working relationship.
+
+Magnitude runs: 5 humans · 74 agents · 149 synapses
+
+Your data
+
+## Your models, your data, your work
+
+### Your AI account
+
+Agents from the frontier AI company you use, with an MCP connection to your personal or team account, one company at a time, and you can switch later. Anthropic (Claude Code) is live. Support for xAI (Grok), OpenAI (Codex) and Google (Gemini CLI) is in progress.
+
+### Your region
+
+Each install has its own database, in a region chosen at setup. Your settings show it.
+
+### Your work
+
+What your fleet builds belongs to you. After 12 paid months, your license falls back to a perpetual one.
+
+Security
+
+## Built for a security review
+
+Single sign-on, user provisioning, two-factor sign-in, an encrypted vault and an audit log, ready for your security review.
+
+### Identity
+
+- SSO (SAML 2.0)Ready to switch on
+- SCIM 2.0 Ready to switch on
+- 2FA On
+
+### Access
+
+- Encrypted vault On
+- IP allowlist Ready to switch on
+- Approvals On
+
+### Record
+
+- Audit log On
+- Backups Ready to switch on
+- SOC 2 Type II Ready for your assessment
+
+[Read the security page](https://fleetfactory.ai/security/)
+
+Capabilities
+
+## What can it do?
+
+Everything below is included in every install. Turn on each module when you need it, one by one or all at once. Your agent guides you and turns on whatever makes your business more efficient and profitable.
+
+**Native**
+
+Compliance Legal Security Auditing Governance
+
+**Models**
+
+Frontier models [Anthropic](https://www.anthropic.com)Private cloud models Self-hosted models
+
+**Set up**
+
+AI assistant Onboarding Users and roles Settings and logs
+
+**Security**
+
+Vault Encrypted keys SSO 2FA SCIM Approvals Access gate IP allowlist Data residency SOC 2 (planned)
+
+**Messaging**
+
+FleetMail FleetFeed
+
+**Team**
+
+Org chart Calendar Goals Projects Tasks [Linear](https://linear.app)
+
+**Agents**
+
+Charters Canons Skills Tools Routines
+
+**Website**
+
+CMS Homepage FAQ Localization Assets Playground
+
+**Apps**
+
+Swift Staging Production Feature Flags Roadmaps Voting Mockup Studio Funnel Metrics
+
+**Deployment**
+
+Launchpad [Vercel](https://vercel.com) · [GitHub Pages](https://pages.github.com)Backups [Supabase](https://supabase.com)
+
+**Audience**
+
+Forms Email [Resend](https://resend.com)Socials Referrals Comments Privacy Internationalization
+
+**Support**
+
+Agentic Human escalation Help center Tickets Live chat Status page Feedback
+
+**Publishing**
+
+Landing pages Blog Subscriptions
+
+**Commerce**
+
+Billing [Stripe (Web)](https://stripe.com) · [App Store (iOS)](https://developer.apple.com/app-store/)Pre-order Currencies
+
+**Company or LoB**
+
+Financials Expenses Logistics Docs Contracts Offer Letters Countering eSignatures Signing Authority IP
+
+**Investors**
+
+Data room Metrics Investor portal Investor agent Decks [ElevenLabs](https://elevenlabs.io)
+
+**Native**
+
+Compliance Legal Security Auditing Governance
+
+**Models**
+
+Frontier models Private cloud models Self-hosted models
+
+**Set up**
+
+AI assistant Onboarding Users and roles Settings and logs
+
+**Security**
+
+Vault Encrypted keys SSO 2FA SCIM Approvals Access gate IP allowlist Data residency SOC 2 (planned)
+
+**Messaging**
+
+FleetMail FleetFeed
+
+**Team**
+
+Org chart Calendar Goals Projects Tasks
+
+**Agents**
+
+Charters Canons Skills Tools Routines
+
+**Website**
+
+CMS Homepage FAQ Localization Assets Playground
+
+**Apps**
+
+Swift Staging Production Feature Flags Roadmaps Voting Mockup Studio Funnel Metrics
+
+**Deployment**
+
+Launchpad Backups
+
+**Audience**
+
+Forms Email Socials Referrals Comments Privacy Internationalization
+
+**Support**
+
+Agentic Human escalation Help center Tickets Live chat Status page Feedback
+
+**Publishing**
+
+Landing pages Blog Subscriptions
+
+**Commerce**
+
+Billing Pre-order Currencies
+
+**Company or LoB**
+
+Financials Expenses Logistics Docs Contracts Offer Letters Countering eSignatures Signing Authority IP
+
+**Investors**
+
+Data room Metrics Investor portal Investor agent Decks
+
+**Models**
+
+Frontier models [Anthropic](https://www.anthropic.com)
+
+**Team**
+
+Tasks [Linear](https://linear.app)
+
+**Deployment**
+
+Launchpad [Vercel](https://vercel.com) · [GitHub Pages](https://pages.github.com)Backups [Supabase](https://supabase.com)
+
+**Audience**
+
+Email [Resend](https://resend.com)
+
+**Commerce**
+
+Billing [Stripe (Web)](https://stripe.com) · [App Store (iOS)](https://developer.apple.com/app-store/)
+
+**Investors**
+
+Decks [ElevenLabs](https://elevenlabs.io)
+
+Pricing
+
+## What does it cost?
+
+Every module, every person and every agent, at every stage. Your AI usage is billed by the frontier AI company you choose. Fleet Factory is designed to work with your monthly plan, instead of APIs so you never go over what you plan to spend.
+
+We recommend Claude Ultra ($200/mo.)
+
+### Idea
+
+$0
+
+So you can plan a product and see how it turns it into a real business before you pay
+
+Pre-revenue, export all you enter.
+
+### Startup
+
+$200 /mo
+
+Once you've onboarded and only after you have your first paying customer.
+
+Post-revenue, up to $1M a year
+
+### SMB
+
+$2,000 /mo
+
+Once the business is running and ready to scale
+
+Revenue of $1M to $100M a year
+
+### Enterprise Pilot
+
+$60,000 /90 days
+
+Run it with one team for 90 days
+
+Revenue $100M or more a year. Every module, every person and every agent, for one team. Book a 90-day Enterprise Pilot for $60,000, credited toward your first year of Enterprise LoB if you continue. 8% ($4,800) secures it. The deposit fully funds an ROI projection tailored to your business case.
+
+### Enterprise LoB
+
+$240,000 /12 months
+
+When a line of business inside a larger company needs SSO and SCIM
+
+Revenue $100M to $1B a year
+
+### Enterprise Wide
+
+$720,000 /12 months
+
+When the whole company runs on it
+
+Revenue $100M to $1B a year across 3+ lines of business, private or public.
+
+### Enterprise Global
+
+$2.4M /12 months
+
+When a global company runs on it in every country
+
+$1B+ revenue a year; every line of business, worldwide
+
+##
+
+Enter your email and we’ll be in touch.
+
+Thanks. We’ll be in touch.
+
+Updates while you pay. After 12 paid months, if you stop paying, you can keep using it indefinitely, without updates. Everything your fleet builds is yours.
+
+One-sheets
+
+## Do you have a one-sheet?
+
+Yes, one for each kind of business it works for:
+
+- [For global partner sales](https://fleetfactory.ai/onesheets/fleetfactory-partner-sales-onesheet.html)
+- [For wealth management firms](https://fleetfactory.ai/onesheets/fleetfactory-wealth-management-onesheet.html)
+- [For insurance agencies](https://fleetfactory.ai/onesheets/fleetfactory-insurance-agencies-onesheet.html)
+- [For independent advisor networks](https://fleetfactory.ai/onesheets/fleetfactory-independent-advisor-networks-onesheet.html)
+- [For property management firms](https://fleetfactory.ai/onesheets/fleetfactory-residential-property-management-onesheet.html)
+
+## Request a custom one-sheet
+
+Enter your work email and we’ll email you a one-sheet made for your business.
+
+Thanks. Your one-sheet will be emailed to you.
+
+Open source
+
+## Start free with BrainBridge. Run it for your company with Fleet Factory.
+
+Free · Apache 2.0
+
+### BrainBridge
+
+Open memory for AI agents. It survives sessions and compression, and moves between accounts, frontier models and even the agents your team shares.
+
+[brainbridge.sh](https://brainbridge.sh) · [Code on GitHub](https://github.com/MagnitudeMoney/brainbridge)
+
+Paid · for your organization
+
+### Fleet Factory
+
+Fleet Factory is the first-party way an organization uses BrainBridge fully: hosted ReadyRooms and MindMelds, permissions, moderation, an admin over who may meld with whom, audit and retention, working on day one.
+
+Questions
+
+## Questions procurement asks
+
+**Who is this for?**
+
+Anyone can license it to build a new business or grow an existing one. It runs on your private or public cloud by default, or as SaaS on request.
+
+**Do you have SOC 2?**
+
+Fleet Factory is ready for your organization's SOC 2 Type II readiness assessment. Send us your security questionnaire and we will answer it: support@magnitude.money.
+
+**Where does our data live?**
+
+Each install has its own database, in a region chosen at setup. Your settings show the region.
+
+**Who else handles our data?**
+
+We share the full list of services an install runs on, with what each one does, as part of your review.
+
+**Who pays for AI usage?**
+
+Your AI usage is billed by the frontier AI company you choose. Fleet Factory is designed to work with your monthly plan, instead of APIs so you never go over what you plan to spend.
+
+**What happens if we stop paying?**
+
+Updates while you pay. After 12 paid months, if you stop paying, you can keep using it indefinitely, without updates. Everything your fleet builds is yours.
+
+**How do we report a vulnerability?**
+
+Email erik.kjell@magnitude.money.
+
+**Who is the company behind it?**
+
+Magnitude Inc., a Delaware corporation.
+
+## Talk to us
+
+Enter your work email and we’ll be in touch.
+
+Thanks. We’ll be in touch.
+
+---
+
+URL: https://fleetfactory.ai/legal/dpa/
+
+[Fleet Factory](https://fleetfactory.ai/) / [Legal](https://fleetfactory.ai/legal/)
+
+# Data processing addendum (DPA)
+
+On request
+
+Available on request. Write to [legal@magnitude.money](mailto:legal@magnitude.money) and we'll send it.
+
+[All legal documents](https://fleetfactory.ai/legal/)
+
+## Talk to us
+
+Enter your work email and we’ll be in touch.
+
+Thanks. We’ll be in touch.
+
+---
+
+URL: https://fleetfactory.ai/legal/
+
+[Fleet Factory](https://fleetfactory.ai/) / Legal
+
+# Legal
+
+The documents a business signs with us. Ask for any of them and we'll send it.
+
+## Agreements
+
+- [Terms](https://fleetfactory.ai/legal/terms/)On request
+- [Data processing addendum (DPA)](https://fleetfactory.ai/legal/dpa/)On request
+
+## Privacy
+
+- [Privacy notice](https://fleetfactory.ai/legal/privacy/)On request
+- [Subprocessors](https://fleetfactory.ai/legal/subprocessors/)On request
+
+## Company
+
+- Magnitude Inc.a Delaware corporation
+- Legal contact [legal@magnitude.money](mailto:legal@magnitude.money)
+
+## Talk to us
+
+Enter your work email and we’ll be in touch.
+
+Thanks. We’ll be in touch.
+
+---
+
+URL: https://fleetfactory.ai/legal/privacy/
+
+[Fleet Factory](https://fleetfactory.ai/) / [Legal](https://fleetfactory.ai/legal/)
+
+# Privacy notice
+
+On request
+
+Available on request. Write to [legal@magnitude.money](mailto:legal@magnitude.money) and we'll send it.
+
+[All legal documents](https://fleetfactory.ai/legal/)
+
+## Talk to us
+
+Enter your work email and we’ll be in touch.
+
+Thanks. We’ll be in touch.
+
+---
+
+URL: https://fleetfactory.ai/legal/subprocessors/
+
+[Fleet Factory](https://fleetfactory.ai/) / [Legal](https://fleetfactory.ai/legal/)
+
+# Subprocessors
+
+On request
+
+Available on request. Write to [legal@magnitude.money](mailto:legal@magnitude.money) and we'll send it.
+
+[All legal documents](https://fleetfactory.ai/legal/)
+
+## Talk to us
+
+Enter your work email and we’ll be in touch.
+
+Thanks. We’ll be in touch.
+
+---
+
+URL: https://fleetfactory.ai/legal/terms/
+
+[Fleet Factory](https://fleetfactory.ai/) / [Legal](https://fleetfactory.ai/legal/)
+
+# Terms
+
+On request
+
+Available on request. Write to [legal@magnitude.money](mailto:legal@magnitude.money) and we'll send it.
+
+[All legal documents](https://fleetfactory.ai/legal/)
+
+## Talk to us
+
+Enter your work email and we’ll be in touch.
+
+Thanks. We’ll be in touch.
+
+---
+
+URL: https://fleetfactory.ai/security/
+
+[Fleet Factory](https://fleetfactory.ai/) / Security
+
+# Security
+
+What protects your business, ready for your security review.
+
+On On in every install Ready to switch on Built in, switched on for your install
+
+## Identity
+
+- SSO (SAML 2.0)Sign in with your identity provider. Switched on per install.Ready to switch on
+- SCIM 2.0 Your directory adds and removes people. Switched on per install.Ready to switch on
+- 2FA Required for admin sessions.On
+- Users and roles Each person gets a role, and the role decides what they can reach.On
+
+## Access
+
+- Encrypted vault Passwords and keys are kept encrypted at rest, in a vault.On
+- Approvals People approve their agents' work from one inbox.On
+- IP allowlist Limit admin access to your network. Every refusal is logged.Ready to switch on
+- Access gate Keep a site or app private until you open it.On
+
+## Record
+
+- Audit log A record of changes made in the Factory, with who made them.On
+- Backups Daily backups. A restore goes to a new database, never over the live one.Ready to switch on
+- Data residency Your install's region is chosen at setup and shown in settings.Ready to switch on
+
+## Standards
+
+- SOC 2 Type II Fleet Factory is ready for your organization's SOC 2 Type II readiness assessment. Send us your security questionnaire and we will answer it.Ready for your assessment
+- GDPR and CCPA We sign a data processing addendum with each customer.On request
+
+## Your AI company
+
+Agents from the frontier AI company you use, with an MCP connection to your personal or team account, one company at a time, and you can switch later. Anthropic (Claude Code) is live. Support for xAI (Grok), OpenAI (Codex) and Google (Gemini CLI) is in progress.
+
+## Report a vulnerability
+
+Email [erik.kjell@magnitude.money](mailto:erik.kjell@magnitude.money).
+
+## Ask us
+
+Send your security questionnaire, and we will answer it.
+
+## Talk to us
+
+Enter your work email and we’ll be in touch.
+
+Thanks. We’ll be in touch.

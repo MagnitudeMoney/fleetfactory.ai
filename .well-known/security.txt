@@ -1,0 +1,4 @@
+Contact: mailto:erik.kjell@magnitude.money
+Expires: 2027-11-18T00:00:00Z
+Preferred-Languages: en
+Canonical: https://fleetfactory.ai/.well-known/security.txt

@@ -1,0 +1,22 @@
+# Fleet Factory
+
+> Fleet Factory is a compliance-first harness that runs an unlimited number of dedicated AI agents who collaborate with your team to make your business more efficient and profitable.
+
+Fleet Factory is made by Magnitude Inc. (https://www.magnitude.money/).
+
+## Pages
+
+- [Fleet Factory: AI agents for your business](https://fleetfactory.ai/): Fleet Factory is a compliance-first harness that runs an unlimited number of dedicated AI agents who collaborate with your team to make your business more efficient and profitable.
+- [Data processing addendum (DPA) · Fleet Factory](https://fleetfactory.ai/legal/dpa/): Fleet Factory Data processing addendum (DPA).
+- [Legal · Fleet Factory](https://fleetfactory.ai/legal/): Fleet Factory's legal documents.
+- [Privacy notice · Fleet Factory](https://fleetfactory.ai/legal/privacy/): Fleet Factory Privacy notice.
+- [Subprocessors · Fleet Factory](https://fleetfactory.ai/legal/subprocessors/): Fleet Factory Subprocessors.
+- [Terms · Fleet Factory](https://fleetfactory.ai/legal/terms/): Fleet Factory Terms.
+- [Security · Fleet Factory](https://fleetfactory.ai/security/): Security at Fleet Factory: what is on, built and planned.
+
+## Optional
+
+- [Full text](https://fleetfactory.ai/llms-full.txt): every page above as plain Markdown
+- [Intent Infrastructure](https://intentinfrastructure.com/llms.txt): a sibling site, also from Magnitude
+- [OpenOrigin](https://openorigin.sh/llms.txt): a sibling site, also from Magnitude
+- [BrainBridge](https://brainbridge.sh/llms.txt): a sibling site, also from Magnitude
